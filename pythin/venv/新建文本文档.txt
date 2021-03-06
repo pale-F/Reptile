@@ -1,0 +1,21 @@
+#text(字符串)
+#content(二进制)
+#json(对象)
+
+<div class="thumb">
+
+<a href="/article/123685735" target="_blank">
+<img src="//pic.qiushibaike.com/system/pictures/12368/123685735/medium/5IOK7FA9V0OQC4IR.jpg" alt="糗事#123685735" class="illustration" width="100%" height="auto">
+</a>
+</div>
+
+ex = '<div class="thumb">.*?<img src="(.*?)" alt=.*?</div>'
+
+
+
+
+
+
+
+
+
